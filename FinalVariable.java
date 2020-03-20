@@ -4,6 +4,7 @@ class finalvar {
     public finalvar() {
         ABC = 10;
         ABC = 20; // this cannot be done it will give error
+        // remove ABC = 20; if you want to remove the error
 
     }
 
